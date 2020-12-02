@@ -17,3 +17,12 @@ int main()
     }
     return 0;
 }
+
+// Output
+
+// Enter Row and Column : 5 6
+// ******
+// ******
+// ******
+// ******
+// ******
